@@ -92,7 +92,9 @@ public class percobaan4 {
     Hewan[] daftarHewan = {
         new Kucing("Caesar", 3, "Anggora"),
         new Anjing("Juan", 2, "Husky"),
-        new Burung("Deny", 1, "Kuning")
+        new Burung("Deny", 1, "Kuning"),
+        new Kucing("Josh", 4, "Persia"),
+        new Anjing("Zhico", 5, "PittBull")
     };
 
     for(Hewan h : daftarHewan) {
